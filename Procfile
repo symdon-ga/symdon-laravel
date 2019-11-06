@@ -1,1 +1,1 @@
-SERVE: php artisan serve --port=8080
+SERVE: cd src && php artisan serve --port=8080
