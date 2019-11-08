@@ -1,6 +1,5 @@
 #+TITLE: Symdon Laravel with Apache httpd
 
-
 ** Start
 
 Download source code.
